@@ -1,2 +1,2 @@
 # react-base-proj
-React base knowlege
+React base knowledge
